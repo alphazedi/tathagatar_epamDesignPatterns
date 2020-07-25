@@ -1,0 +1,17 @@
+Behavioral\TemplatePattern.class
+Behavioral\CallHandlerBase.class
+Behavioral\Status.class
+Creational\BuilderPattern.class
+Behavioral\ManagerHandler.class
+Behavioral\MathExam.class
+Behavioral\ChainOfResp.class
+Behavioral\ReceptionHandler.class
+Creational\BuilderPattern$Coffee.class
+com\epam\designpatterns\App.class
+Creational\BuilderPattern$Coffee$Builder.class
+Behavioral\AutomatedSpeakerHandler.class
+Behavioral\AdministrativeOfficeHandler.class
+Behavioral\PhoneCall.class
+Behavioral\PhoneCallResponse.class
+Behavioral\Exam.class
+Creational\BuilderPattern$1.class
